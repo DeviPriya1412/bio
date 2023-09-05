@@ -1,0 +1,45 @@
+img 
+{   margin-top: 30px;
+    margin-left: 600px;
+    margin-right: 600px;
+    border:solid blue;
+}
+img:hover{
+    transform:scale(1.2);
+    border-radius:50%;
+    
+}
+body{
+    background-color:rgb(4, 4, 4);
+}
+#heading{
+   
+    color:blue;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: WHITE;
+}
+HR 
+{
+    border: SOLID blue;
+}
+
+table ,th,td
+{
+    border: 1px solid rgb(58, 18, 237);
+    border-collapse: collapse;
+    padding:10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    COLOR:WHITE;
+}
+LI 
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    COLOR:WHITE;
+}
